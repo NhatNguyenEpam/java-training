@@ -20,3 +20,11 @@ The application can:
 
 ## Task State Machine Diagram
 ![img.png](img/task_state_machine.png)
+
+## TODO list:
+- [ ] Setup project: pom.xml, folder structure.
+- [ ] Design domain entities, command types, interfaces.
+- [ ] Implement Task State Machine in-memory.
+- [ ] Implement REST APIs by Spring Boot.
+- [ ] Implement authentication/authorization by Spring Security.
+- [ ] Implement Docker, CI setup.
